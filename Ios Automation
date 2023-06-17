@@ -18,8 +18,8 @@ public class BrowserStack_Ios {
     
     
     WebDriver driver;
-    public static final String USERNAME = "prateekkrishna_oHTjbO";
-    public static final String AUTOMATE_KEY = "rPvwzmLSQB7NEbvY7Cws";
+    public static final String USERNAME = "";
+    public static final String AUTOMATE_KEY = "";
     public static final String URL = "https://" + USERNAME + ":" + AUTOMATE_KEY + "@hub-cloud.browserstack.com/wd/hub";
 
     //@Parameters({"browser", "browser_version", "os", "os_version"})
